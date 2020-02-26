@@ -10,3 +10,5 @@ There is no input check or other features.
 R = Refresh list
 
 Type 'auto' or remain as blank space = Set address automatically (IPv4, DNS)
+
+<img src="https://i.imgur.com/y8BCzIz.png">
